@@ -4,7 +4,7 @@ bl_info = {
     "author": "Vaughan Ling",
     "version": (0, 1, 0),
     "blender": (2, 78, 0),
-    "location": "",
+    "location": "DooDooButter",
     "warning": "",
     "wiki_url": "",
     "category": "Hotkeys"
